@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jonathan Durieu's CV
 ---
-# Isaac Newton
+# Jonathan Durieu
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
